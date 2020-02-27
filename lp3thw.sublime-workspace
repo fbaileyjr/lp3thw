@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"Has2AZs"
+			],
+			[
+				"us",
+				"us-west-2"
+			],
+			[
+				"us-",
+				"us-east-2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# lp3thw\nMy Learn Python 3 the Hard Way Repo\n\n## Repo to track my project filesg\n",
+			"file": "README.md",
+			"file_size": 80,
+			"file_write_time": 132270198764116768,
+			"settings":
+			{
+				"buffer_size": 81,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/frank.baileyaxonius.com/gh/lp3thw"
+	],
+	"file_history":
+	[
+		"/Users/frank.baileyaxonius.com/gh/lp3thw/README.md",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/infrastructure/eks.yml",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/infrastructure/params.json",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/Jenkinsfile",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/index.html",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/zone_configurations/green-zone.yml",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/zone_configurations/blue-zone.yml",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/infrastructure/auth.yml",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/create-cluster.yaml",
+		"/Users/frank.baileyaxonius.com/Documents/udacity/reference/devops-capstone-master/cluster.yaml",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_capstone/clusters-pipeline/Jenkinsfile",
+		"/Users/frank.baileyaxonius.com/gh/DevOps_Microservices/project-ml-microservice-kubernetes/app.py",
+		"/Users/frank.baileyaxonius.com/gh/udacity_cloud_devops_project_5/README.md",
+		"/Users/frank.baileyaxonius.com/gh/DevOps_Microservices/project-ml-microservice-kubernetes/README.md",
+		"/Users/frank.baileyaxonius.com/gh/cortex-2_15_0_RC2/axonius-libs/src/libs/axonius-py/axonius/scanner_adapter_base.py",
+		"/Users/frank.baileyaxonius.com/gh/cortex-2_15_0_RC2/adapters/absolute_adapter/service.py",
+		"/Users/frank.baileyaxonius.com/gh/cortex-2_15_0_RC2/axonius-libs/src/libs/axonius-py/axonius/devices/device_adapter.py",
+		"/Users/frank.baileyaxonius.com/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/frank.baileyaxonius.com/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/frank.baileyaxonius.com/Library/Application Support/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lp3thw.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
