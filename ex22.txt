@@ -1,0 +1,16 @@
+# list of symbols
+
+! = exclamation
+" = double quote
+' = single quote
+# = hash
+$ = dollar
+% = percent
+& = ampersand
+() = parenthesis
+* = asterisk
++ = plus
+- = minus
+/ = divide
+% = modulus
+^ = carrot
